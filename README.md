@@ -1,3 +1,5 @@
+#  4-Bit ALU Project Overview
+
 This project implements a 4-bit Arithmetic Logic Unit (ALU) in Verilog HDL. The ALU is designed to perform basic arithmetic and logical operations on two 4-bit inputs. It serves as a foundational building block for digital systems such as processors and microcontrollers, demonstrating core principles of RTL design and digital electronics.
 
 The ALU supports arithmetic operations like addition and subtraction, as well as logical operations including AND, OR, and XOR. It also provides status outputs for zero detection and carry-out, which are critical for building conditional logic in larger digital systems.
