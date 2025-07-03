@@ -8,7 +8,7 @@ The project includes a synthesizable Verilog module of the ALU along with a comp
 
 This ALU project not only showcases proficiency in Verilog coding and simulation practices but also emphasizes good design practices like modular code structure and thorough verification. It is a key step toward building more complex digital subsystems like CPUs or embedded controllers.
 
-Key Features of the ALU:
+>Key Features of the ALU:
 
 Accepts two 4-bit input operands.
 
